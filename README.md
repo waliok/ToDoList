@@ -9,7 +9,7 @@ Simple ToDoList App based on UIKit framework
 * Rearrange your list and add checkmark
 * Change background with color picker and add some desired colors to create gradient
 * Change gradient direction as you wish
-* Background every item in your list can also be changed whith all pallet of colors
+* Customise background color for every item
 
 # Tech overview
 
